@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "pedo",
+      "sources": [
+        "https://imgur.com/WaHyJBi.png"
+      ],
+      "x": 591,
+      "y": 428
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
