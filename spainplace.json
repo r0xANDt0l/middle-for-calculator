@@ -1,13 +1,13 @@
 {
-  "contact": "",
+  "contact": "https://discord.gg/mgSrKe7G",
   "templates": [
     {
-      "name": "pedo",
+      "name": "SpainrPlace",
       "sources": [
-        "https://imgur.com/WaHyJBi.png"
+        "https://cdn.discordapp.com/attachments/1132069533864165469/1132690253900165120/image.png"
       ],
-      "x": 591,
-      "y": 428
+      "x": 1192,
+      "y": 926
     }
   ],
   "whitelist": [],
